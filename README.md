@@ -1,6 +1,3 @@
-<img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
-
-###
 <h1 align="center">Hi 👋, I'm salah eddin</h1>
 <h3 align="center">A passionate developer from Algeria</h3>
 
@@ -19,6 +16,8 @@
 - 📫 How to reach me **salaheddinberiani@gmail.com**
 
 - ⚡ Fun fact **I think I am funny**
+
+<img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
