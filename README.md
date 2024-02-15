@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
+<img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
 
 ###
 <h1 align="center">Hi 👋, I'm salah eddin</h1>
